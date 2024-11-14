@@ -21,4 +21,6 @@ Range= Xmax-Xmin
   Q= (1/2)*(Q3-Q1)
 
 - Variance: Variance is a statistical measurement of the spread between numbers in a data set.
-- 
+
+  ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHW4RWGwuQewRp95IH0FEVXSulsOjwP85HYw&s)
+- Standard Deviation: Square root of Variance.
