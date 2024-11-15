@@ -24,3 +24,4 @@ Range= Xmax-Xmin
 
   ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHW4RWGwuQewRp95IH0FEVXSulsOjwP85HYw&s)
 - Standard Deviation: Square root of Variance.
+
