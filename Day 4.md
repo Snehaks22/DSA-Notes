@@ -24,4 +24,11 @@ Range= Xmax-Xmin
 
   ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHW4RWGwuQewRp95IH0FEVXSulsOjwP85HYw&s)
 - Standard Deviation: Square root of Variance.
+- Z score: It is calculated using the formula:\
+   z = (x – μ) / σ
+    
+   ![](https://i.ytimg.com/vi/Zoi15vIgDQ8/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLC1AC5nvWHK0EZUNLaV0JvHeuULgQ)
 
+ If Z=0, data point is same as mean.\
+   Z= +ve, data points are above average.\
+   Z+ -ve, data points are below average.
